@@ -1,0 +1,11 @@
+const finalPosition =  (moves) => {
+  
+  for (const move of moves) {
+    if(move = north) {
+      
+    }
+  }
+  // Your code in here ...
+}
+
+const moves = ['north', 'north', 'west', 'west', 'north', 'east','north']
